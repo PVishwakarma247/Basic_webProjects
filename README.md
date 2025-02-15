@@ -1,4 +1,4 @@
-# Web Development Projects Repository
+# Basic-Web Development Projects
 
 Welcome to my web development projects repository! This repository contains a collection of small web-based projects built using **HTML**, **CSS**, and **JavaScript**. These projects are beginner-friendly and cover a variety of functionalities.
 
