@@ -32,4 +32,4 @@ Welcome to my web development projects repository! This repository contains a co
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PVishwakarma247/Basic-wabProjects.git
+   git clone https://github.com/PVishwakarma247/Basic_webProjects.git
