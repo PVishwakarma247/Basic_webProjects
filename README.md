@@ -8,23 +8,23 @@ Welcome to my web development projects repository! This repository contains a co
 
 1. **Calculator**  
    A simple calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division.  
-   **Tech Stack:** HTML, CSS, JavaScript.
+   **Created with:** HTML, CSS, JavaScript.
 
 2. **Countdown Timer**  
    A countdown timer that allows users to set a specific time and counts down to zero.  
-   **Tech Stack:** HTML, CSS, JavaScript.
+   **Created with:** HTML, CSS, JavaScript.
 
 3. **Clock**  
    A real-time digital clock that displays the current time.  
-   **Tech Stack:** HTML, CSS, JavaScript.
+   **Created with:** HTML, CSS, JavaScript.
 
 4. **Myntra Clone**  
    A static clone of the Myntra e-commerce website homepage. This project focuses on replicating the UI design.  
-   **Tech Stack:** HTML, CSS.
+   **Created with:** HTML, CSS.
 
 5. **Stone Paper Scissor Game**  
    A fun and interactive game where users can play Stone, Paper, Scissor against the computer.  
-   **Tech Stack:** HTML, CSS, JavaScript.
+   **Created with:** HTML, CSS, JavaScript.
 
 ---
 
